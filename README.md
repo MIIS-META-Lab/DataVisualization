@@ -1,5 +1,9 @@
-# DataVisualization
+# Best Practices of Data Visualization
+<br>
 
-**Steps to Make Bredan Your Friend**
-* Buy him a Coke Zero
+####Table of Contents####
+* The (Very) Basics
+* Best Practices
+*
+
 
