@@ -4,6 +4,14 @@
 ####Table of Contents####
 * The (Very) Basics
 * Best Practices
-* How to use what graph when
+* Pick a Graph for Your Data
+* DON'T DO THIS
+* Visual Deception
+<br>
+<br>
+<br>
+<br>
+
+#####The Very Basics#####
 
 
