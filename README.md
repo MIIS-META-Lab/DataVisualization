@@ -32,11 +32,16 @@ Your data won't mean anything if you can not effecitvely convey meaning to your 
 2. **Arrange Your Graph with Intentionality**
 
 * Make sure data are arranged in a way that makes sense to your reader. For instance, if showing frequency, arrange your graph from greatest to least. 
-![Example by Ann K. Emery](~/DataVizPix/Example1.png)
+<<<<<<< HEAD
+![Example by Ann K. Emery](DataVizPix/Example1.png)
+
+
 
 <br>
 
 * **Only use two dimensions**. Please, please, please resist the urge to use any type of 3-D graph. Your reader already has a lot of their plate, don't add more!
-![](~/DataVizPix/Example2.png)
+<<<<<<< HEAD
+
+![](DataVizPix/Example2.png)
 
 
